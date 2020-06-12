@@ -7,6 +7,12 @@ git commit
 git checkout -- index.html
 git diff index.html
 
+git commit -a
+git commit -m "se han agregado cambios..."
+
+git branch
+git branch login
+gitcheckout login
 
 
 *** config  ***
