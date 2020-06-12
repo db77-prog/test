@@ -7,12 +7,19 @@ git commit
 git checkout -- index.html
 git diff index.html
 
+*** agregar archivos en proyecto ***
 git commit -a
 git commit -m "se han agregado cambios..."
 
+*** verificar en que version del proyecto se esta trabajando ***
 git branch
 git branch login
-gitcheckout login
+git checkout login
+
+
+*** autentificacion en github ***
+git remote add origin https://github.com/db77-prog/test.git
+git push -u origin master
 
 
 *** config  ***
