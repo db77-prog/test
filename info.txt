@@ -4,6 +4,9 @@ git log
 git add {nombre-archivo}
 git commit
 
+git checkout -- index.html
+git diff index.html
+
 
 
 *** config  ***

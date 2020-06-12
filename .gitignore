@@ -1,5 +1,6 @@
-. List of files and directories ignored
+# List of files and directories ignored
 
-. files
+# files
 
-. directories
+# directories
+test
